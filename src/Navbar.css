@@ -1,0 +1,268 @@
+@media (min-width: 320px) {
+  body{
+    background-image: url(./Image/body.jpg);
+
+  }
+  .no{
+    position: relative;
+    top: 30px;
+}
+  .saib{
+    display: inline-flex;
+    margin-right: 190pt;
+    width: 50px;
+
+}
+.joy{
+  height: 60px;
+  width: 40px; 
+}
+.Huddle{
+  font-size:10px ;
+}
+.hamid{
+  width: 80pt;
+  height: 40pt;
+  margin-left: 150pt;
+  position: relative;
+  bottom: 60px;
+ color: pink;
+ border: solid 2px;
+ border-radius: 30px
+}
+ 
+}
+@media (min-width: 376px){
+  body{
+    background-image: url(./Image/body.jpg);
+
+  }
+  .no{
+    position: relative;
+    top: 30px;
+}
+  .saib{
+    display: inline-flex;
+    margin-right: 240pt;
+    width: 50px;
+
+}
+.joy{
+  height: 60px;
+  width: 40px; 
+}
+.Huddle{
+  font-size:10px ;
+}
+.hamid{
+  width: 80pt;
+  height: 40pt;
+  margin-left: 198pt;
+  position: relative;
+  bottom: 60px;
+ color: pink;
+ border: solid 2px;
+ border-radius: 30px
+ 
+}
+}
+
+@media (min-width: 420px){
+  body{
+    background-image: url(./Image/body.jpg);
+
+  }
+  .no{
+    position: relative;
+    top: 30px;
+}
+  .saib{
+    display: inline-flex;
+    margin-right: 270pt;
+    width: 50px;
+
+}
+.joy{
+  height: 60px;
+  width: 40px; 
+}
+.Huddle{
+  font-size:10px ;
+}
+.hamid{
+  width: 80pt;
+  height: 40pt;
+  margin-left: 230pt;
+  position: relative;
+  bottom: 60px;
+ color: pink;
+ border: solid 2px;
+ border-radius: 30px
+ 
+}
+}
+@media (min-width: 476px){
+  body{
+    background-image: url(./Image/body.jpg);
+
+  }
+  .no{
+    position: relative;
+    top: 30px;
+}
+  .saib{
+    display: inline-flex;
+    margin-right: 700pt;
+    width: 50px;
+
+}
+.joy{
+  height: 60px;
+  width: 40px; 
+}
+.Huddle{
+  font-size:10px ;
+}
+.hamid{
+  width: 80pt;
+  height: 40pt;
+  margin-left: 270pt;
+  position: relative;
+  bottom: 60px;
+ color: pink;
+ border: solid 2px;
+ border-radius: 30px
+ 
+}
+
+}
+@media (min-width: 576px){
+  body{
+    background-image: url(./Image/body.jpg);
+
+  }
+  .no{
+    position: relative;
+    top: 30px;
+}
+  .saib{
+    display: inline-flex;
+    margin-right: 700pt;
+    width: 50px;
+
+}
+.joy{
+  height: 60px;
+  width: 40px; 
+}
+.Huddle{
+  font-size:10px ;
+}
+.hamid{
+  width: 80pt;
+  height: 40pt;
+  margin-left: 348pt;
+  position: relative;
+  bottom: 60px;
+ color: pink;
+ border: solid 2px;
+ border-radius: 30px
+ 
+}
+}
+@media (min-width: 768px){
+  body{
+    background-image: url(./Image/body.jpg);
+    
+  }
+  .no{
+       position: relative;
+       top: 30px;
+  }
+  
+  .saib{
+      display: inline-flex;
+      margin-right: 500pt;
+      width: 50px;
+  }
+  .joy{
+       height: 80px;
+       width: 40px;
+  }
+  .Huddle{
+         font-size: 15px;
+  }
+  .hamid{
+         width: 150pt;
+         height: pt;
+         margin-left: 410pt;
+         position: relative;
+         bottom: 70px;
+        color: pink;
+        border: solid 2px;
+        border-radius: 30pt
+        
+        
+  }
+}
+@media (min-width: 1200px){
+body{
+  background-image: url(./Image/body.jpg);
+  
+}
+.no{
+     position: relative;
+     top: 30px;
+}
+
+.saib{
+    display: inline-flex;
+    margin-right: 600pt;
+    width: 50px;
+}
+.joy{
+     height: 80px;
+     width: 40px;
+}
+.Huddle{
+       font-size: 15px;
+}
+.hamid{
+       width: 150pt;
+       height: pt;
+       margin-left: 700pt;
+       position: relative;
+       bottom: 70px;
+      color: pink;
+      border: solid 2px;
+      border-radius: 30pt
+      
+      
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
